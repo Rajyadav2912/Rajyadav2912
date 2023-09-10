@@ -1,5 +1,6 @@
 <h1 align="left">Hey,🧑🏻‍💻 I'm Raj Yadav</h1>
-<img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+
+<img align='right' alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 <h3 align="left">A passionate Frontend Developer and Software Development Engineer from India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></h3>
@@ -43,7 +44,7 @@
 
 ##
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajyadav2912&show_icons=true&locale=en&layout=compact" alt="rajyadav2912"/></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rajyadav2912&show_icons=true&locale=en" alt="rajyadav2912"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajyadav2912&" alt="rajyadav2912" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rajyadav2912&show_icons=true&locale=en" alt="rajyadav2912"/></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rajyadav2912&" alt="rajyadav2912" /></p>
 
 
