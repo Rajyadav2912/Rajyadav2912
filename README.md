@@ -1,6 +1,6 @@
 <h1 align="left">Hey,🧑🏻‍💻 I'm Raj Yadav</h1>
 
-<img align='right' alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img align='right' alt="Coder GIF" height=300 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 <h3 align="left">A passionate Frontend Developer and Software Development Engineer from India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></h3>
@@ -18,11 +18,10 @@
 - 📄 Know about my experiences <a href='https://drive.google.com/file/d/1g_5Xw7dfygKwfaJa6N9LCg36MWV_2cHT/view?usp=sharing'>🔗</a>
 
 ## 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajyadav2912&label=Profile%20views&color=0e75b6&style=flat" alt="rajyadav2912" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajyadav2912" alt="rajyadav2912" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=rajyadav2912&label=Profile%20views&color=0e75b6&style=flat" alt="rajyadav2912" /></p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajyadav2912" alt="rajyadav2912"/></a></p>
+<img align='right' alt="Coder GIF" height=300 width=450 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<p align="left"><a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a></p>
 
 ##
 <h3 align="left">Connect with me:</h3>
@@ -31,7 +30,6 @@
 
 ##
 <h3 align="left">Languages and Tools:</h3>
-<img align='right' alt="Coder GIF" height=150 width=250 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 <p align="left">  
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
