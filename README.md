@@ -31,6 +31,7 @@
 
 ##
 <h3 align="left">Languages and Tools:</h3>
+<img align='right' alt="Coder GIF" height=150 width=250 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 <p align="left">  
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -43,9 +44,8 @@
 
 
 ##
-<img align='right' alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajyadav2912&show_icons=true&locale=en&layout=compact" alt="rajyadav2912"/></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rajyadav2912&show_icons=true&locale=en" alt="rajyadav2912"/></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rajyadav2912&" alt="rajyadav2912" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rajyadav2912&show_icons=true&locale=en" alt="rajyadav2912"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajyadav2912&" alt="rajyadav2912" /></p>
 
 
