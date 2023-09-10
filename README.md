@@ -1,5 +1,5 @@
 <h1 align="left">Hey,🧑🏻‍💻 I'm Raj Yadav</h1>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="330">
+<img align='right' alt='codingimg' widht='50' src="https://github.com/Rajyadav2912/Rajyadav2912/assets/111771619/8525071c-a5c0-400c-b01e-0c250bbfa06f">
 
 <h3 align="left">A passionate Frontend Developer and Software Development Engineer from India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></h3>
