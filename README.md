@@ -5,7 +5,7 @@
 <h3 align="left">A passionate Frontend Developer and Software Development Engineer from India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></h3>
 
-- 🌱 I’m currently learning **Java and DSA From Apna Collage**
+- 🌱 I’m currently learning  <a href='https://github.com/Rajyadav2912/Alpha-3.0_Java_with_DSA'>**Java and DSA From Apna Collage** 🔗 </a>  
   
 - 👨‍💻 My Latest Project is <a href='https://rajyadav2912.github.io/Raj_Portfolio_2920'>🔗</a>
 
