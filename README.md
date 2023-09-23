@@ -46,4 +46,9 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rajyadav2912&show_icons=true&locale=en" alt="rajyadav2912"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajyadav2912&" alt="rajyadav2912" /></p>
 
+## 📈 Stats
+<p align="center">
 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhishek9503&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek9503&theme=tokyonight" />
+</p>
