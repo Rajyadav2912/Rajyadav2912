@@ -19,7 +19,7 @@
 
 ## 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=rajyadav2912&label=Profile%20views&color=0e75b6&style=flat" alt="rajyadav2912" /></p>
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajyadav2912" alt="rajyadav2912"/></a></p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajyadav2912&theme=tokyonight" alt="rajyadav2912"/></a></p>
 <img align='right' alt="Coder GIF" height=300 width=450 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 <p align="left"><a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a></p>
 
@@ -27,6 +27,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rajyadav-2920r0218j8/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rajyadav-2920r0218j8" height="30" width="40" /></a>  <a href="https://www.leetcode.com/rajyadav7047" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajyadav7047" height="30" width="40" /></a>  <a href="https://fb.com/rajyadav" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajyadav" height="30" width="40" /></a>     <a href="https://instagram.com/yadav_raj.29" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yadav_raj.29" height="30" width="40" /></a></p>
+
 
 ##
 <h3 align="left">Languages and Tools:</h3>
@@ -39,16 +40,11 @@
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
   </p>
-
-
+  
 ##
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajyadav2912&show_icons=true&locale=en&layout=compact" alt="rajyadav2912"/></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rajyadav2912&show_icons=true&locale=en" alt="rajyadav2912"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajyadav2912&" alt="rajyadav2912" /></p>
 
 ## 📈 Stats
-<p align="center">
+<p align="center"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=rajyadav2912&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajyadav2912&theme=tokyonight"/>
+<img height=200 width=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=rajyadav2912&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="rajyadav2912"/></p>
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhishek9503&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek9503&theme=tokyonight" />
-</p>
