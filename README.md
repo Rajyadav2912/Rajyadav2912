@@ -45,6 +45,6 @@
 
 ## 📈 Stats
 <p align="center"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=rajyadav2912&show_icons=true&theme=tokyonight"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajyadav2912&theme=tokyonight"/>
+<img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajyadav2912&theme=tokyonight"/>
 <img height=200 width=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=rajyadav2912&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="rajyadav2912"/></p>
 
