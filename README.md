@@ -7,9 +7,9 @@
 
 # 💫 About Me:
 - 🌱 I’m currently learning **Java and DSA From Apna Collage** <a href='https://github.com/Rajyadav2912/Alpha-3.0_Java_with_DSA' color=white >🔗</a> 
-- 👨‍💻 My Latest Project is <a href='https://rajyadav2912.github.io/Raj_Portfolio_2920'>🔗</a><br>
-- 🛍 Design an E-commerce Shopping Website <a href='https://e-commerce-shopping-website-29.netlify.app'>🔗</a><br>
-- 🎧 Design a Spotify Clone <a href='https://rajyadav2912.github.io/Spotify_Clone/'>🔗</a><br>
+- 👨‍💻 My Latest Project is <a href='https://raj-portfolio-29.netlify.app/'>🔗</a><br>
+- 🛍  Design an E-commerce Shopping Website <a href='https://e-commerce-shopping-website-29.netlify.app'>🔗</a><br>
+- 📱 Contact App Using CRUD <a href='https://contact-app-crud.vercel.app/'>🔗</a><br>
 - 👨‍💻 All of my projects are available at <a href='https://rajyadav2912.github.io/Raj_Portfolio_2920'>🔗</a><br>
 - 📄 Know about my experiences <a href='https://drive.google.com/file/d/1g_5Xw7dfygKwfaJa6N9LCg36MWV_2cHT/view?usp=sharing'>🔗</a><br>
 - 🤝 I’m looking for help with<br>
