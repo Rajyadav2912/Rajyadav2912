@@ -2,8 +2,7 @@
 
 <img align='right' alt="Coder GIF" height=300 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-<h3 align="left">A Passionate as a Frontend Developer and Software Development Engineer From India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></h3>
+<h3 align="left">A Passionate as a Frontend Developer and Software Development Engineer From India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></h3>
 
 # 💫 About Me:
 - 🌱 I’m currently learning **Java and DSA From Apna Collage** <a href='https://github.com/Rajyadav2912/Alpha-3.0_Java_with_DSA' color=white >🔗</a> 
