@@ -6,7 +6,7 @@
 </div>
 
 ---
-# 💫 About Me:
+💫 About Me:
 
 - 🌱 I’m currently learning **Java and DSA From Apna Collage** <a href='https://github.com/Rajyadav2912/Alpha-3.0_Java_with_DSA' color=white >🔗</a> 
 - 👨‍💻 My Latest Project is <a href='https://raj-portfolio-29.netlify.app/'>🔗</a><br>
