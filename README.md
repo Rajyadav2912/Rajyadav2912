@@ -5,8 +5,9 @@
 <h3 align="left">A Passionate as a Frontend Developer and Software Development Engineer From India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
----
-💫 About Me:
+<div>
+
+💫 About Me: 
 
 - 🌱 I’m currently learning **Java and DSA From Apna Collage** <a href='https://github.com/Rajyadav2912/Alpha-3.0_Java_with_DSA' color=white >🔗</a> 
 - 👨‍💻 My Latest Project is <a href='https://raj-portfolio-29.netlify.app/'>🔗</a><br>
@@ -16,6 +17,7 @@
 - 📄 Know about my experiences <a href='https://drive.google.com/file/d/1ogExUr8iNERb639N2uY3KZ-5K5vJ8jC_/view?usp=sharing'>🔗</a><br>
 - 🤝 I’m looking for help with<br>
 - 💬 Ask me about
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rajyadav2912&icon=5&color=1)](https://visitcount.itsvg.in)
