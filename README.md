@@ -1,10 +1,15 @@
 <h1 align="left">Hey,🧑🏻‍💻 I'm Raj Yadav // <a href='https://raj-portfolio-29.netlify.app/' target='_blank' >My Portfolio 😎</a></h1>
-
+<div>
 <img align="right" alt="Coder GIF" height=300 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 <h3 align="left">A Passionate as a Frontend Developer and Software Development Engineer From India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
 
-# 💫 About Me:
+---
+About Me:
+
+
+
 - 🌱 I’m currently learning **Java and DSA From Apna Collage** <a href='https://github.com/Rajyadav2912/Alpha-3.0_Java_with_DSA' color=white >🔗</a> 
 - 👨‍💻 My Latest Project is <a href='https://raj-portfolio-29.netlify.app/'>🔗</a><br>
 - 🛍  Design an E-commerce Shopping Website <a href='https://e-commerce-shopping-website-29.netlify.app'>🔗</a><br>
