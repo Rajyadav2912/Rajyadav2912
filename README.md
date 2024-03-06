@@ -2,7 +2,7 @@
 <div>
 <img align="right" alt="Coder GIF" height=300 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-<h3 align="left">A Passionate as a Frontend Developer And Software Development Engineer From India. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3 align="left">A Passionate as a Frontend Developer & Software Development Engineer From India. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 <div>
