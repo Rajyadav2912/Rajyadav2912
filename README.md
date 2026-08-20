@@ -52,10 +52,28 @@
 
 <!-- Row 3: Socials & Tech Stack Side-by-Side -->
 
-<p align="left">
- 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,nextjs,tailwind,mongodb,expressjs,nodejs,postgresql,mysql,java,reactrouter,framer,figma,notion,redis,git,github,githubactions,vercel,docker,aws,&theme=dark&titles=true)](https://raj-developer-2920.vercel.app/)
+### 💻 Programming Languages
 
+<p align="left">
+  <a href="https://raj-developer-2920.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,java,html,css&theme=dark&titles=true" alt="Programming Languages" />
+  </a>
+</p>
+
+### 🚀 Frameworks & Libraries
+
+<p align="left">
+  <a href="https://raj-developer-2920.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwind,expressjs,nodejs,reactrouter,framer&theme=dark&titles=true" alt="Frameworks & Libraries" />
+  </a>
+</p>
+
+### 🛠 Tools & Platforms
+
+<p align="left">
+  <a href="https://raj-developer-2920.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,postgresql,mysql,figma,notion,redis,git,github,githubactions,vercel,docker,aws&theme=dark&titles=true" alt="Tools & Platforms" />
+  </a>
 </p>
 
 </br>
